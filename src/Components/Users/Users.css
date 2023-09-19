@@ -1,0 +1,8 @@
+.users{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    display: container;
+    max-width: auto;
+    /* background-color: rgb(81, 55, 245); */
+}
